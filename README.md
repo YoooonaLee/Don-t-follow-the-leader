@@ -1,2 +1,1 @@
-# Statistics-learning
-Statistics
+# 졸업논문
